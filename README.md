@@ -1,4 +1,4 @@
-# Hi there, I'm [Mark Mwangi] 👋
+# Hi there, I'm Mark Mwangi 👋
 <div align= "center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> 
 </div>
@@ -45,8 +45,7 @@ Architecture: MVVM, Clean Architecture, Jetpack Compose, Hilt, KMP
 
 🌐 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [Portfolio](https://your-portfolio.com) • [Twitter](https://twitter.com/yourhandle) • [Email](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com/in/mark-gaituri-595767259/) • [Portfolio](gaituri.github.io) • [Twitter](https://twitter.com/yourhandle) • [Email](mailto:gaiturimark@gmail.com)
 
-> "Code is temporary. UX is forever."
 
 Thanks for visiting — feel free to explore, star ⭐️, and fork 🚀
