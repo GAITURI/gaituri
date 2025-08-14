@@ -1,4 +1,4 @@
-# Hi there, I'm Mark Mwangi 👋
+# Hi there, I'm Mark Mwangi an Android Developer
 <div align= "center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> 
 </div>
@@ -34,9 +34,9 @@ Architecture: MVVM, Clean Architecture, Jetpack Compose, Hilt, KMP
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [HotelApp](https://github.com/GAITURI/Hotel.git) | A sleek modern news app built with native Kotlin | MVVM, Hilt, Retrofit, firebase |
+| [HotelApp](https://github.com/GAITURI/Hotel.git) | A sleek modern hotel  built with native Kotlin | MVVM, Hilt, Retrofit, firebase |
 | [Dukani](https://github.com/GAITURI/Dukani.git) | Its still in the work  |Dfinity, Kotlin Multiplatform, Compose |
-
+| [Sajili] | A KYC Application using kotlin compose and clean springboot backend | SpringBoot, Hilt, Retrofit, postgresql,Railway |
 
 
 🌐 Let's Connect
