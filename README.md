@@ -1,9 +1,7 @@
 # Hi there, I'm Mark Mwangi an Android Developer
-<div align= "center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> 
-</div>
 
-Android Developer • Kotlin Engineer • Jetpack Compose Advocate • Cross-platform Explorer
+
+Android Developer • Kotlin Engineer • Jetpack Compose Advocate • Product management and design in relation to micro-services
 
 Welcome to my GitHub space — I build scalable, user-centered mobile experiences using modern Android and cross-platform technologies.
 
@@ -25,10 +23,12 @@ Architecture: MVVM, Clean Architecture, Jetpack Compose, Hilt, KMP
 
 🧠 Currently Learning
 
-- Deep diving into Kotlin Multiplatform Mobile (KMM)
-- Custom animation patterns with Compose
+- Kotlin Multiplatform Mobile (KMM)
+- Integrating concepts of ICP in Kotlin
+- Designing, Testing and Deploying microservices
 - Firebase Remote Config and Crashlytics
 - Improving CI/CD pipelines for app deployment
+-Deployment in relation to microservices
 
 📲 Projects
 
@@ -36,7 +36,7 @@ Architecture: MVVM, Clean Architecture, Jetpack Compose, Hilt, KMP
 |--------|-------------|------------|
 | [HotelApp](https://github.com/GAITURI/Hotel.git) | A sleek modern hotel  built with native Kotlin | MVVM, Hilt, Retrofit, firebase |
 | [Dukani](https://github.com/GAITURI/Dukani.git) | Its still in the work  |Dfinity, Kotlin Multiplatform, Compose |
-| [Sajili] | A KYC Application using kotlin compose and clean springboot backend | SpringBoot, Hilt, Retrofit, postgresql,Railway |
+| [Sajili](https://github.com/GAITURI/Sajili) | A KYC Application using kotlin compose and clean springboot backend | SpringBoot, Hilt, Retrofit, postgresql,Railway |
 
 
 🌐 Let's Connect
