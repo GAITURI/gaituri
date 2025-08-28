@@ -41,7 +41,7 @@ Architecture: MVVM, Clean Architecture, Jetpack Compose, Hilt, KMP
 
 🌐 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/mark-gaituri-595767259/) • [Portfolio](gaituri.github.io) • [Twitter](https://twitter.com/yourhandle) • [Email](mailto:gaiturimark@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mark-gaituri-595767259/) • [Portfolio](gaituri.github.io) • [Twitter](https://x.com/Gaituri1) • [Email](mailto:gaiturimark@gmail.com)
 
 
 Thanks for visiting — feel free to explore, star ⭐️, and fork 🚀
