@@ -1,23 +1,18 @@
-# Hi there, I'm Mark Mwangi an Android Developer
+#  I'm Mark Mwangi an Android Developer
 
 
 Android Developer • Kotlin Engineer • Jetpack Compose Advocate • Product management and design in relation to micro-services
 
-Welcome to my GitHub space — I build scalable, user-centered mobile experiences using modern Android and cross-platform technologies.
+Welcome to my GitHub space — I build and design mobile applications and solutions using modern Android and cross-platform technologies.
 
 🚀 Tech Stack & Libraries
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-3E4EB8?style=flat-square)
-![Room](https://img.shields.io/badge/Room%20DB-9C27B0?style=flat-square)
-![Retrofit](https://img.shields.io/badge/Retrofit-0052CC?style=flat-square)
-![Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=flat-square)
-![Flow](https://img.shields.io/badge/Kotlin%20Flow-FF9800?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Maps SDK](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=google-maps)
-![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+- Android networking tools such as retrofit
+- Android UI design using kotlin and jetpack compose
+- Kotlin Multi-platform for both android and IOS features
+- Integrating IOT in relation to mobile applications
+- Cloud storage, analytics and deployment using firebase
+  
 
 Architecture: MVVM, Clean Architecture, Jetpack Compose, Hilt, KMP
 
@@ -25,7 +20,7 @@ Architecture: MVVM, Clean Architecture, Jetpack Compose, Hilt, KMP
 
 - Kotlin Multiplatform Mobile (KMM)
 - Integrating concepts of ICP in Kotlin
-- Designing, Testing and Deploying microservices
+- Designing, Testing and Deploying android solutions
 - Firebase Remote Config and Crashlytics
 - Improving CI/CD pipelines for app deployment
 -Deployment in relation to microservices
