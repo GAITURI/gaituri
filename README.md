@@ -9,6 +9,7 @@ Welcome to my GitHub space — I build and design mobile applications and soluti
 
 - Android networking tools such as retrofit
 - Android UI design using kotlin and jetpack compose
+-Optimizing Jetpack Compose using Features such as Macrobenchmark and        reportFullyDrawn
 - Kotlin Multi-platform for both android and IOS features
 - Integrating IOT in relation to mobile applications
 - Cloud storage, analytics and deployment using firebase
